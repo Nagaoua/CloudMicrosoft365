@@ -1,0 +1,2 @@
+PowerShell script that audits real Microsoft 365 workload usage per licensed user via Graph API. 
+Detects active use of Exchange, Teams, SharePoint, OneDrive, M365 Apps and MFA. Outputs CSV + HTML report.
